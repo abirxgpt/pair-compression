@@ -1,0 +1,41 @@
+ARXIV SUBMISSION METADATA
+=========================
+
+Title: PAIR: Perceptual Adaptive Importance-Guided ROI Compression --
+       An Empirical Analysis
+
+Author: Abir Gupta
+Affiliation: Independent Researcher, Ajmer, India
+Email: abir.guptaaa@gmail.com
+
+Abstract:
+This paper presents PAIR (Perceptual Adaptive Importance-guided ROI), a novel
+image compression framework that combines multi-component perceptual importance
+mapping with JPEG 2000's Region of Interest (ROI) coding. Unlike existing
+approaches that rely on single-component saliency or manual ROI specification,
+PAIR automatically generates importance-driven quality allocation through
+integration of edge detection, texture analysis, and visual saliency. We
+conduct comprehensive evaluation on the Kodak dataset, comparing PAIR against
+established codecs (JPEG, WebP) and analyzing the challenges of translating
+perceptual models into compression gains. While PAIR achieves +1.77 dB
+improvement over naive perceptual approaches, it remains 1.65 dB below JPEG at
+Q70, with the gap widening to 3.92 dB at Q95. Our subsequent implementation
+with tile-based ROI encoding via OpenJPEG reverses this trend at higher quality
+levels, achieving PSNR of 43.70 dB at Q95 (2.91 dB above JPEG). Our analysis
+provides valuable insights into the gap between perceptual modeling and
+practical rate-distortion optimization, and demonstrates that proper ROI
+implementation can yield measurable gains.
+
+Primary category: cs.CV (Computer Vision and Pattern Recognition)
+Cross-list: eess.IV (Image and Video Processing)
+
+Comments: 6 pages, 4 figures, 2 tables.
+          Code: https://github.com/abirxgpt/pair-compression
+
+ACM class: I.4.2 (Compression (Coding))
+
+License: CC BY 4.0 (arXiv default)
+
+Submission file: pair_arxiv.zip (contains PAIR_paper.tex + figures/)
+
+Compiler: pdfLaTeX (IEEEtran conference class)
