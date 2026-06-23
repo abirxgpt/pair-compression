@@ -74,15 +74,25 @@ kodak_dataset/
 test_output/
 testing_images/
 seminar_report_docs/
+demo_*.png
+test*.jp2
+test*.py
+test_*.jp2
 _test_*
 _plan_*
 _validate_*
 _debug_*
 _quick_*
 _audit_*
-_test_*
 *.tmp
 *.bak
+
+# Old paper versions
+paper/PAWC_paper.tex
+paper/PAWC_paper_revised.tex
+
+# Local Claude config
+.claude/
 
 # OS
 .DS_Store
