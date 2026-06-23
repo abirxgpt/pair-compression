@@ -1,0 +1,1226 @@
+[
+  {
+    "image": "kodim01",
+    "quality": 70,
+    "original_size": 736501,
+    "compressed_size": 42142,
+    "ratio": 17.47665037254995,
+    "bpp": 0.8573811848958334,
+    "psnr": 30.177854634758255,
+    "ssim": 0.694373213540857,
+    "ms_ssim": 0.9572073343502473,
+    "time": 28.683717489242554,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim02",
+    "quality": 70,
+    "original_size": 617995,
+    "compressed_size": 42143,
+    "ratio": 14.664238426310419,
+    "bpp": 0.8574015299479166,
+    "psnr": 34.76396255737132,
+    "ssim": 0.8467892487114597,
+    "ms_ssim": 0.9801946406415777,
+    "time": 22.661011695861816,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim03",
+    "quality": 70,
+    "original_size": 502888,
+    "compressed_size": 42118,
+    "ratio": 11.939978156607626,
+    "bpp": 0.8568929036458334,
+    "psnr": 36.544742178648384,
+    "ssim": 0.9188028875550311,
+    "ms_ssim": 0.9881830190396381,
+    "time": 22.471699714660645,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim04",
+    "quality": 70,
+    "original_size": 637432,
+    "compressed_size": 42107,
+    "ratio": 15.13838554159641,
+    "bpp": 0.8566691080729166,
+    "psnr": 34.42965281045218,
+    "ssim": 0.859084826949777,
+    "ms_ssim": 0.9817230214928859,
+    "time": 81237.99938416481,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim05",
+    "quality": 70,
+    "original_size": 785610,
+    "compressed_size": 41979,
+    "ratio": 18.714357178589296,
+    "bpp": 0.85406494140625,
+    "psnr": 29.986548873611,
+    "ssim": 0.7092335039867472,
+    "ms_ssim": 0.9573335336854921,
+    "time": 12.883869886398315,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim06",
+    "quality": 70,
+    "original_size": 618959,
+    "compressed_size": 42139,
+    "ratio": 14.688507083699186,
+    "bpp": 0.8573201497395834,
+    "psnr": 31.548413092925813,
+    "ssim": 0.779783849278794,
+    "ms_ssim": 0.9626040732085016,
+    "time": 12.302538871765137,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim07",
+    "quality": 70,
+    "original_size": 566322,
+    "compressed_size": 42138,
+    "ratio": 13.43969813470027,
+    "bpp": 0.8572998046875,
+    "psnr": 34.79527886793112,
+    "ssim": 0.9164624535497728,
+    "ms_ssim": 0.988527056432596,
+    "time": 13.80968165397644,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim08",
+    "quality": 70,
+    "original_size": 788470,
+    "compressed_size": 42132,
+    "ratio": 18.714278932877622,
+    "bpp": 0.857177734375,
+    "psnr": 29.66145394356701,
+    "ssim": 0.7027292348943756,
+    "ms_ssim": 0.9523903489630902,
+    "time": 15.23843264579773,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim09",
+    "quality": 70,
+    "original_size": 582899,
+    "compressed_size": 42137,
+    "ratio": 13.833424306429029,
+    "bpp": 0.8572794596354166,
+    "psnr": 35.75721772212955,
+    "ssim": 0.9083571604157283,
+    "ms_ssim": 0.9886293605116377,
+    "time": 20.608341693878174,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim10",
+    "quality": 70,
+    "original_size": 593463,
+    "compressed_size": 42109,
+    "ratio": 14.09349545227861,
+    "bpp": 0.8567097981770834,
+    "psnr": 34.996741841865656,
+    "ssim": 0.8838356865002014,
+    "ms_ssim": 0.9845092473652128,
+    "time": 24.83840012550354,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim11",
+    "quality": 70,
+    "original_size": 621023,
+    "compressed_size": 42129,
+    "ratio": 14.740986019131714,
+    "bpp": 0.85711669921875,
+    "psnr": 32.09491782355195,
+    "ssim": 0.7855734786498139,
+    "ms_ssim": 0.9673142569293695,
+    "time": 24.245866775512695,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim12",
+    "quality": 70,
+    "original_size": 531024,
+    "compressed_size": 42129,
+    "ratio": 12.604714092430392,
+    "bpp": 0.85711669921875,
+    "psnr": 35.54317625292774,
+    "ssim": 0.8796356992701521,
+    "ms_ssim": 0.9833985665560049,
+    "time": 155.15757870674133,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim13",
+    "quality": 70,
+    "original_size": 822712,
+    "compressed_size": 42058,
+    "ratio": 19.56136763517048,
+    "bpp": 0.8556722005208334,
+    "psnr": 29.368826841389893,
+    "ssim": 0.5724041390589617,
+    "ms_ssim": 0.9284938779995947,
+    "time": 217.78132224082947,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim14",
+    "quality": 70,
+    "original_size": 692201,
+    "compressed_size": 42064,
+    "ratio": 16.45590053252187,
+    "bpp": 0.8557942708333334,
+    "psnr": 31.173578079367246,
+    "ssim": 0.7456992258035776,
+    "ms_ssim": 0.965404254239948,
+    "time": 11.653581380844116,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim15",
+    "quality": 70,
+    "original_size": 612582,
+    "compressed_size": 42104,
+    "ratio": 14.549258977769334,
+    "bpp": 0.8566080729166666,
+    "psnr": 35.02975481218937,
+    "ssim": 0.8740306674851172,
+    "ms_ssim": 0.984221855323999,
+    "time": 14.601806402206421,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim16",
+    "quality": 70,
+    "original_size": 534247,
+    "compressed_size": 42141,
+    "ratio": 12.677606131795638,
+    "bpp": 0.85736083984375,
+    "psnr": 33.59953895807287,
+    "ssim": 0.8517520493452589,
+    "ms_ssim": 0.9773470627881163,
+    "time": 11.544234037399292,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim17",
+    "quality": 70,
+    "original_size": 602078,
+    "compressed_size": 41983,
+    "ratio": 14.340995164709526,
+    "bpp": 0.8541463216145834,
+    "psnr": 34.05800816607782,
+    "ssim": 0.8691925307393573,
+    "ms_ssim": 0.9821545388748295,
+    "time": 11.498952388763428,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim18",
+    "quality": 70,
+    "original_size": 780947,
+    "compressed_size": 42125,
+    "ratio": 18.53880118694362,
+    "bpp": 0.8570353190104166,
+    "psnr": 31.160394276856632,
+    "ssim": 0.7435482003079982,
+    "ms_ssim": 0.960499311925108,
+    "time": 11.514615297317505,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim19",
+    "quality": 70,
+    "original_size": 671476,
+    "compressed_size": 41980,
+    "ratio": 15.99514054311577,
+    "bpp": 0.8540852864583334,
+    "psnr": 32.72238492517673,
+    "ssim": 0.8172924303032021,
+    "ms_ssim": 0.9704617351116746,
+    "time": 11.439460039138794,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim20",
+    "quality": 70,
+    "original_size": 492462,
+    "compressed_size": 42135,
+    "ratio": 11.687718049127804,
+    "bpp": 0.85723876953125,
+    "psnr": 35.27928430048205,
+    "ssim": 0.8918706179683796,
+    "ms_ssim": 0.9881608356901893,
+    "time": 11.473426342010498,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim21",
+    "quality": 70,
+    "original_size": 637051,
+    "compressed_size": 42145,
+    "ratio": 15.115695812077352,
+    "bpp": 0.8574422200520834,
+    "psnr": 32.47270583978709,
+    "ssim": 0.840459088749198,
+    "ms_ssim": 0.9773748941898103,
+    "time": 11.441307544708252,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim22",
+    "quality": 70,
+    "original_size": 701970,
+    "compressed_size": 42092,
+    "ratio": 16.67704076784187,
+    "bpp": 0.8563639322916666,
+    "psnr": 32.49430558015391,
+    "ssim": 0.7947964801878878,
+    "ms_ssim": 0.9723853001403541,
+    "time": 11.524319648742676,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim23",
+    "quality": 70,
+    "original_size": 557596,
+    "compressed_size": 42121,
+    "ratio": 13.237957313454096,
+    "bpp": 0.8569539388020834,
+    "psnr": 38.58749830160342,
+    "ssim": 0.9388333352619593,
+    "ms_ssim": 0.9929123945650176,
+    "time": 11.594780206680298,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim24",
+    "quality": 70,
+    "original_size": 706397,
+    "compressed_size": 42136,
+    "ratio": 16.76469052591608,
+    "bpp": 0.8572591145833334,
+    "psnr": 31.13442306684668,
+    "ssim": 0.741158196160611,
+    "ms_ssim": 0.9568930045913268,
+    "time": 11.936055898666382,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim01",
+    "quality": 85,
+    "original_size": 736501,
+    "compressed_size": 78571,
+    "ratio": 9.37370022018302,
+    "bpp": 1.5985310872395833,
+    "psnr": 30.88105689364699,
+    "ssim": 0.7977013437582287,
+    "ms_ssim": 0.9772430970416845,
+    "time": 11.569793462753296,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim02",
+    "quality": 85,
+    "original_size": 617995,
+    "compressed_size": 78616,
+    "ratio": 7.860931616973644,
+    "bpp": 1.5994466145833333,
+    "psnr": 36.503468714907285,
+    "ssim": 0.902706791824988,
+    "ms_ssim": 0.989494327732466,
+    "time": 11.455451488494873,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim03",
+    "quality": 85,
+    "original_size": 502888,
+    "compressed_size": 78652,
+    "ratio": 6.393836138941158,
+    "bpp": 1.6001790364583333,
+    "psnr": 39.71334186909713,
+    "ssim": 0.9532650904340714,
+    "ms_ssim": 0.9943429104060052,
+    "time": 11.267566919326782,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim04",
+    "quality": 85,
+    "original_size": 637432,
+    "compressed_size": 78527,
+    "ratio": 8.117360907713271,
+    "bpp": 1.5976359049479167,
+    "psnr": 36.35270933971564,
+    "ssim": 0.9090076263315416,
+    "ms_ssim": 0.9912426081201119,
+    "time": 11.669904947280884,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim05",
+    "quality": 85,
+    "original_size": 785610,
+    "compressed_size": 78632,
+    "ratio": 9.99097059721233,
+    "bpp": 1.5997721354166667,
+    "psnr": 30.885993031995444,
+    "ssim": 0.8243935306260003,
+    "ms_ssim": 0.9785848738723417,
+    "time": 11.455220699310303,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim06",
+    "quality": 85,
+    "original_size": 618959,
+    "compressed_size": 78575,
+    "ratio": 7.877301940820872,
+    "bpp": 1.5986124674479167,
+    "psnr": 32.790499446091886,
+    "ssim": 0.8639209549451875,
+    "ms_ssim": 0.9808537763105335,
+    "time": 11.280746459960938,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim07",
+    "quality": 85,
+    "original_size": 566322,
+    "compressed_size": 78434,
+    "ratio": 7.220363617818803,
+    "bpp": 1.5957438151041667,
+    "psnr": 37.82418370448842,
+    "ssim": 0.9561109900782859,
+    "ms_ssim": 0.9951347972118328,
+    "time": 13.247024297714233,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim08",
+    "quality": 85,
+    "original_size": 788470,
+    "compressed_size": 78643,
+    "ratio": 10.0259400073751,
+    "bpp": 1.5999959309895833,
+    "psnr": 30.525719496443774,
+    "ssim": 0.8137038952007362,
+    "ms_ssim": 0.975105395124488,
+    "time": 11.440393209457397,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim09",
+    "quality": 85,
+    "original_size": 582899,
+    "compressed_size": 78555,
+    "ratio": 7.4202660556298135,
+    "bpp": 1.59820556640625,
+    "psnr": 38.72996487168339,
+    "ssim": 0.9387364573512268,
+    "ms_ssim": 0.9940276051247933,
+    "time": 11.348571062088013,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim10",
+    "quality": 85,
+    "original_size": 593463,
+    "compressed_size": 78620,
+    "ratio": 7.5484991096413125,
+    "bpp": 1.5995279947916667,
+    "psnr": 37.77713020275483,
+    "ssim": 0.9291355591201134,
+    "ms_ssim": 0.9930396420938169,
+    "time": 11.451436519622803,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim11",
+    "quality": 85,
+    "original_size": 621023,
+    "compressed_size": 78589,
+    "ratio": 7.902161880161346,
+    "bpp": 1.5988972981770833,
+    "psnr": 33.64621257968315,
+    "ssim": 0.8622190184345956,
+    "ms_ssim": 0.9839966675867795,
+    "time": 11.398862838745117,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim12",
+    "quality": 85,
+    "original_size": 531024,
+    "compressed_size": 78575,
+    "ratio": 6.758180082723513,
+    "bpp": 1.5986124674479167,
+    "psnr": 38.03393094006184,
+    "ssim": 0.927326763505596,
+    "ms_ssim": 0.9915987135392851,
+    "time": 11.305524349212646,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim13",
+    "quality": 85,
+    "original_size": 822712,
+    "compressed_size": 78577,
+    "ratio": 10.470137572063072,
+    "bpp": 1.5986531575520833,
+    "psnr": 29.804564146496414,
+    "ssim": 0.6768832393043444,
+    "ms_ssim": 0.954015272031488,
+    "time": 11.796133279800415,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim14",
+    "quality": 85,
+    "original_size": 692201,
+    "compressed_size": 78497,
+    "ratio": 8.81818413442552,
+    "bpp": 1.5970255533854167,
+    "psnr": 32.24536436932362,
+    "ssim": 0.8321322116718716,
+    "ms_ssim": 0.9818845486556179,
+    "time": 11.472458839416504,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim15",
+    "quality": 85,
+    "original_size": 612582,
+    "compressed_size": 78588,
+    "ratio": 7.794854176210109,
+    "bpp": 1.598876953125,
+    "psnr": 37.142682370694544,
+    "ssim": 0.9208907132181926,
+    "ms_ssim": 0.9920870247175522,
+    "time": 11.340440511703491,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim16",
+    "quality": 85,
+    "original_size": 534247,
+    "compressed_size": 78598,
+    "ratio": 6.797208580371001,
+    "bpp": 1.5990804036458333,
+    "psnr": 35.681103256899405,
+    "ssim": 0.9170008860691233,
+    "ms_ssim": 0.9887451320394213,
+    "time": 11.435792446136475,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim17",
+    "quality": 85,
+    "original_size": 602078,
+    "compressed_size": 78596,
+    "ratio": 7.660415288309838,
+    "bpp": 1.5990397135416667,
+    "psnr": 36.343874937096444,
+    "ssim": 0.9198435316449644,
+    "ms_ssim": 0.9919961938371965,
+    "time": 11.35812258720398,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim18",
+    "quality": 85,
+    "original_size": 780947,
+    "compressed_size": 78460,
+    "ratio": 9.95344124394596,
+    "bpp": 1.5962727864583333,
+    "psnr": 32.15145863258766,
+    "ssim": 0.8330861274071268,
+    "ms_ssim": 0.9808224100826441,
+    "time": 11.359322309494019,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim19",
+    "quality": 85,
+    "original_size": 671476,
+    "compressed_size": 78578,
+    "ratio": 8.54534348036346,
+    "bpp": 1.5986735026041667,
+    "psnr": 34.38150298770306,
+    "ssim": 0.8913090174327317,
+    "ms_ssim": 0.9866670582380165,
+    "time": 11.47195291519165,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim20",
+    "quality": 85,
+    "original_size": 492462,
+    "compressed_size": 78631,
+    "ratio": 6.262949727206827,
+    "bpp": 1.5997517903645833,
+    "psnr": 37.520259078023976,
+    "ssim": 0.9370980508268301,
+    "ms_ssim": 0.9942507776209423,
+    "time": 11.36351752281189,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim21",
+    "quality": 85,
+    "original_size": 637051,
+    "compressed_size": 78621,
+    "ratio": 8.102809681891607,
+    "bpp": 1.59954833984375,
+    "psnr": 33.77421643478868,
+    "ssim": 0.8954747316861597,
+    "ms_ssim": 0.9873432037380597,
+    "time": 11.36316967010498,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim22",
+    "quality": 85,
+    "original_size": 701970,
+    "compressed_size": 78659,
+    "ratio": 8.924217190658412,
+    "bpp": 1.6003214518229167,
+    "psnr": 33.99241578626855,
+    "ssim": 0.8742460998556751,
+    "ms_ssim": 0.985932762169211,
+    "time": 12.875677824020386,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim23",
+    "quality": 85,
+    "original_size": 557596,
+    "compressed_size": 78625,
+    "ratio": 7.091841017488076,
+    "bpp": 1.5996297200520833,
+    "psnr": 41.6289323072482,
+    "ssim": 0.9610533524611995,
+    "ms_ssim": 0.9966172680976949,
+    "time": 11.879017114639282,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim24",
+    "quality": 85,
+    "original_size": 706397,
+    "compressed_size": 78599,
+    "ratio": 8.987353528670848,
+    "bpp": 1.5991007486979167,
+    "psnr": 32.218747729808534,
+    "ssim": 0.8383645832729264,
+    "ms_ssim": 0.980289217609943,
+    "time": 11.436291217803955,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim01",
+    "quality": 95,
+    "original_size": 736501,
+    "compressed_size": 117965,
+    "ratio": 6.243385750010597,
+    "bpp": 2.4000040690104165,
+    "psnr": 31.802659343327456,
+    "ssim": 0.8626284628478896,
+    "ms_ssim": 0.9860839297341508,
+    "time": 11.469862699508667,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim02",
+    "quality": 95,
+    "original_size": 617995,
+    "compressed_size": 117862,
+    "ratio": 5.243377848670479,
+    "bpp": 2.3979085286458335,
+    "psnr": 38.529943715144945,
+    "ssim": 0.934599689617943,
+    "ms_ssim": 0.993668080682855,
+    "time": 11.341580867767334,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim03",
+    "quality": 95,
+    "original_size": 502888,
+    "compressed_size": 117736,
+    "ratio": 4.2713188829245095,
+    "bpp": 2.3953450520833335,
+    "psnr": 42.5257842503584,
+    "ssim": 0.9702924441857764,
+    "ms_ssim": 0.9970483323697806,
+    "time": 11.31723427772522,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim04",
+    "quality": 95,
+    "original_size": 637432,
+    "compressed_size": 117978,
+    "ratio": 5.402973435725305,
+    "bpp": 2.4002685546875,
+    "psnr": 38.50495129885106,
+    "ssim": 0.9393601515782543,
+    "ms_ssim": 0.9945775161128957,
+    "time": 11.238560676574707,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim05",
+    "quality": 95,
+    "original_size": 785610,
+    "compressed_size": 117826,
+    "ratio": 6.667543666083886,
+    "bpp": 2.3971761067708335,
+    "psnr": 31.97537079360108,
+    "ssim": 0.8857354005505192,
+    "ms_ssim": 0.9883506838033291,
+    "time": 11.451652765274048,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim06",
+    "quality": 95,
+    "original_size": 618959,
+    "compressed_size": 117943,
+    "ratio": 5.247950281067974,
+    "bpp": 2.3995564778645835,
+    "psnr": 34.35910943927588,
+    "ssim": 0.9144762650782355,
+    "ms_ssim": 0.9888007477155232,
+    "time": 11.34099006652832,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim07",
+    "quality": 95,
+    "original_size": 566322,
+    "compressed_size": 117812,
+    "ratio": 4.80699758937969,
+    "bpp": 2.3968912760416665,
+    "psnr": 40.968271395321274,
+    "ssim": 0.972512656028786,
+    "ms_ssim": 0.9973645429960932,
+    "time": 11.197898626327515,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim08",
+    "quality": 95,
+    "original_size": 788470,
+    "compressed_size": 117912,
+    "ratio": 6.686936020082774,
+    "bpp": 2.39892578125,
+    "psnr": 31.6078817251436,
+    "ssim": 0.8754191443414389,
+    "ms_ssim": 0.9862277692850884,
+    "time": 11.363867998123169,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim09",
+    "quality": 95,
+    "original_size": 582899,
+    "compressed_size": 117787,
+    "ratio": 4.948754955979862,
+    "bpp": 2.3963826497395835,
+    "psnr": 40.92152887258485,
+    "ssim": 0.9514445581293512,
+    "ms_ssim": 0.9959031984298599,
+    "time": 11.380666017532349,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim10",
+    "quality": 95,
+    "original_size": 593463,
+    "compressed_size": 117844,
+    "ratio": 5.036005227249584,
+    "bpp": 2.3975423177083335,
+    "psnr": 40.06351789924716,
+    "ssim": 0.9498514702865298,
+    "ms_ssim": 0.9956806763388258,
+    "time": 11.296996831893921,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim11",
+    "quality": 95,
+    "original_size": 621023,
+    "compressed_size": 117943,
+    "ratio": 5.265450259871294,
+    "bpp": 2.3995564778645835,
+    "psnr": 35.403231613507145,
+    "ssim": 0.9154024253201566,
+    "ms_ssim": 0.9917690203208717,
+    "time": 11.364868402481079,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim12",
+    "quality": 95,
+    "original_size": 531024,
+    "compressed_size": 117870,
+    "ratio": 4.505166709086281,
+    "bpp": 2.3980712890625,
+    "psnr": 40.172882975333515,
+    "ssim": 0.951477232407659,
+    "ms_ssim": 0.9952171817944632,
+    "time": 11.286604166030884,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim13",
+    "quality": 95,
+    "original_size": 822712,
+    "compressed_size": 117543,
+    "ratio": 6.999242830283386,
+    "bpp": 2.39141845703125,
+    "psnr": 30.271770641130704,
+    "ssim": 0.7727271150787628,
+    "ms_ssim": 0.9747080599735388,
+    "time": 11.353234767913818,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim14",
+    "quality": 95,
+    "original_size": 692201,
+    "compressed_size": 117939,
+    "ratio": 5.869144218621491,
+    "bpp": 2.39947509765625,
+    "psnr": 33.52564717509709,
+    "ssim": 0.889319511502563,
+    "ms_ssim": 0.9888943017134283,
+    "time": 11.335316181182861,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim15",
+    "quality": 95,
+    "original_size": 612582,
+    "compressed_size": 117948,
+    "ratio": 5.193661613592431,
+    "bpp": 2.399658203125,
+    "psnr": 39.51637819456413,
+    "ssim": 0.9484673486322373,
+    "ms_ssim": 0.99521367301636,
+    "time": 11.384546518325806,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim16",
+    "quality": 95,
+    "original_size": 534247,
+    "compressed_size": 117799,
+    "ratio": 4.5352422346539445,
+    "bpp": 2.3966267903645835,
+    "psnr": 37.99567413171595,
+    "ssim": 0.9481404034053539,
+    "ms_ssim": 0.9939258878617293,
+    "time": 11.425953388214111,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim17",
+    "quality": 95,
+    "original_size": 602078,
+    "compressed_size": 117879,
+    "ratio": 5.107593379652016,
+    "bpp": 2.39825439453125,
+    "psnr": 38.79638208371604,
+    "ssim": 0.9477731461235398,
+    "ms_ssim": 0.9954119833158178,
+    "time": 11.245020866394043,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim18",
+    "quality": 95,
+    "original_size": 780947,
+    "compressed_size": 117949,
+    "ratio": 6.621056558343013,
+    "bpp": 2.3996785481770835,
+    "psnr": 33.47416271323958,
+    "ssim": 0.8868233183417549,
+    "ms_ssim": 0.9881187594922247,
+    "time": 11.247224569320679,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim19",
+    "quality": 95,
+    "original_size": 671476,
+    "compressed_size": 117658,
+    "ratio": 5.707015247581975,
+    "bpp": 2.3937581380208335,
+    "psnr": 36.13168636761684,
+    "ssim": 0.9275802934809824,
+    "ms_ssim": 0.9924633823461996,
+    "time": 11.608617544174194,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim20",
+    "quality": 95,
+    "original_size": 492462,
+    "compressed_size": 117725,
+    "ratio": 4.183155659375664,
+    "bpp": 2.3951212565104165,
+    "psnr": 40.25210257708736,
+    "ssim": 0.9598605755334093,
+    "ms_ssim": 0.996484291087362,
+    "time": 11.629333734512329,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim21",
+    "quality": 95,
+    "original_size": 637051,
+    "compressed_size": 117803,
+    "ratio": 5.407765506820709,
+    "bpp": 2.3967081705729165,
+    "psnr": 35.41628359327836,
+    "ssim": 0.9293843433816255,
+    "ms_ssim": 0.9924130735689607,
+    "time": 11.432352781295776,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim22",
+    "quality": 95,
+    "original_size": 701970,
+    "compressed_size": 117917,
+    "ratio": 5.953085644987576,
+    "bpp": 2.3990275065104165,
+    "psnr": 35.5664261131908,
+    "ssim": 0.9146361870395535,
+    "ms_ssim": 0.9919151638236688,
+    "time": 11.31320071220398,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim23",
+    "quality": 95,
+    "original_size": 557596,
+    "compressed_size": 117857,
+    "ratio": 4.731123310452498,
+    "bpp": 2.3978068033854165,
+    "psnr": 43.584316108032496,
+    "ssim": 0.971305558217388,
+    "ms_ssim": 0.9978963313707797,
+    "time": 12.741422653198242,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  },
+  {
+    "image": "kodim24",
+    "quality": 95,
+    "original_size": 706397,
+    "compressed_size": 117969,
+    "ratio": 5.987988369825971,
+    "bpp": 2.40008544921875,
+    "psnr": 33.55355794011024,
+    "ssim": 0.8966474592883064,
+    "ms_ssim": 0.9881847408569829,
+    "time": 11.648792266845703,
+    "tier_distribution": {
+      "high": "15.0%",
+      "medium": "45.0%",
+      "low": "40.0%"
+    }
+  }
+]

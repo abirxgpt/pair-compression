@@ -1,0 +1,23 @@
+\begin{table}[htbp]
+\caption{Compression Performance on Kodak Dataset (24 images, 768×512)}
+\begin{center}
+\begin{tabular}{ccccccc}
+\toprule
+\textbf{Codec} & \textbf{Quality} & \textbf{BPP} & \textbf{PSNR (dB)} & \textbf{SSIM} & \textbf{MS-SSIM} & \textbf{Ratio} \\
+\midrule
+PAWC & 70 & 2.967 & 31.46 & 0.7337 & 0.9560 & 4.40:1 \\
+ & 85 & 3.546 & 32.95 & 0.7970 & 0.9767 & 3.68:1 \\
+ & 95 & 4.776 & 33.79 & 0.8527 & 0.9877 & 2.74:1 \\
+\midrule
+JPEG & 70 & 1.213 & 34.88 & 0.9227 & 0.9902 & 11.28:1 \\
+ & 85 & 1.836 & 36.82 & 0.9499 & 0.9943 & 7.38:1 \\
+ & 95 & 3.306 & 40.79 & 0.9762 & 0.9973 & 4.02:1 \\
+\midrule
+WEBP & 70 & 0.877 & 35.09 & 0.9243 & 0.9885 & 17.00:1 \\
+ & 85 & 1.448 & 37.82 & 0.9567 & 0.9939 & 9.98:1 \\
+ & 95 & 2.798 & 41.93 & 0.9807 & 0.9975 & 4.83:1 \\
+\bottomrule
+\end{tabular}
+\label{tab:kodak_results}
+\end{center}
+\end{table}

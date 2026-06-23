@@ -1,0 +1,89 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+junit.xml
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Benchmark outputs (large binaries, keep only JSON results)
+kodak_results/*.jpg
+kodak_results/*.webp
+kodak_results/*.pawc
+pair_results/*.jp2
+pair_results_glymur/*.jp2
+benchmark_output/
+*.pawc
+*.pwc2
+
+# Kodak dataset (copyright — users download separately)
+kodak_dataset/
+
+# Test artifacts and temp output
+test_output/
+testing_images/
+seminar_report_docs/
+_test_*
+_plan_*
+_validate_*
+_debug_*
+_quick_*
+_audit_*
+_test_*
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
