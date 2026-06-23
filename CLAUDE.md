@@ -224,7 +224,7 @@ rigorously. That has value.
 - Every figure must have \label and be referenced with \ref before it appears
 - No "??" allowed in final compiled PDF
 - Author: Abir Gupta
-- Affiliation: Independent Researcher, Ajmer, India
+- Affiliation: Independent Researcher, Bengaluru, India
 - Email: abir.guptaaa@gmail.com
 - Repository: https://github.com/abirxgpt/pair-compression (set this up Session 4)
 
