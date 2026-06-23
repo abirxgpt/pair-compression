@@ -5,7 +5,7 @@ Title: PAIR: Perceptual Adaptive Importance-Guided ROI Compression --
        An Empirical Analysis
 
 Author: Abir Gupta
-Affiliation: Independent Researcher, Ajmer, India
+Affiliation: Independent Researcher, Bengaluru, India
 Email: abir.guptaaa@gmail.com
 
 Abstract:

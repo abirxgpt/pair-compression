@@ -4,7 +4,7 @@
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://python.org)
 [![Tests: 24/2xfail](https://img.shields.io/badge/tests-24%2F2xfail-green)]()
 
-**Author:** Abir Gupta (Independent Researcher, Ajmer, India)
+**Author:** Abir Gupta (Independent Researcher, Bengaluru, India)
 **Contact:** abir.guptaaa@gmail.com
 
 PAIR is an exploratory image compression framework that investigates whether
