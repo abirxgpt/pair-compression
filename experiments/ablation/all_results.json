@@ -1,0 +1,1554 @@
+{
+  "edge_only": [
+    {
+      "image": "kodim01",
+      "psnr": 32.994,
+      "ssim": 0.9139,
+      "ms_ssim": 0.9724,
+      "bpp": 2.2252,
+      "filesize": 109372
+    },
+    {
+      "image": "kodim02",
+      "psnr": 31.239,
+      "ssim": 0.779,
+      "ms_ssim": 0.8731,
+      "bpp": 1.0922,
+      "filesize": 53686
+    },
+    {
+      "image": "kodim03",
+      "psnr": 31.4865,
+      "ssim": 0.8505,
+      "ms_ssim": 0.8947,
+      "bpp": 1.0274,
+      "filesize": 50500
+    },
+    {
+      "image": "kodim04",
+      "psnr": 31.0318,
+      "ssim": 0.7967,
+      "ms_ssim": 0.8718,
+      "bpp": 1.2088,
+      "filesize": 59413
+    },
+    {
+      "image": "kodim05",
+      "psnr": 32.3264,
+      "ssim": 0.9002,
+      "ms_ssim": 0.9677,
+      "bpp": 2.2184,
+      "filesize": 109037
+    },
+    {
+      "image": "kodim06",
+      "psnr": 31.6954,
+      "ssim": 0.8739,
+      "ms_ssim": 0.9319,
+      "bpp": 1.6924,
+      "filesize": 83184
+    },
+    {
+      "image": "kodim07",
+      "psnr": 32.12,
+      "ssim": 0.8661,
+      "ms_ssim": 0.9105,
+      "bpp": 1.3115,
+      "filesize": 64463
+    },
+    {
+      "image": "kodim08",
+      "psnr": 32.4865,
+      "ssim": 0.9056,
+      "ms_ssim": 0.9747,
+      "bpp": 2.1519,
+      "filesize": 105770
+    },
+    {
+      "image": "kodim09",
+      "psnr": 32.0375,
+      "ssim": 0.8598,
+      "ms_ssim": 0.91,
+      "bpp": 1.1115,
+      "filesize": 54631
+    },
+    {
+      "image": "kodim10",
+      "psnr": 32.0424,
+      "ssim": 0.8298,
+      "ms_ssim": 0.8957,
+      "bpp": 1.0928,
+      "filesize": 53714
+    },
+    {
+      "image": "kodim11",
+      "psnr": 32.6584,
+      "ssim": 0.8479,
+      "ms_ssim": 0.9539,
+      "bpp": 1.5169,
+      "filesize": 74561
+    },
+    {
+      "image": "kodim12",
+      "psnr": 31.9144,
+      "ssim": 0.8211,
+      "ms_ssim": 0.899,
+      "bpp": 0.9788,
+      "filesize": 48109
+    },
+    {
+      "image": "kodim13",
+      "psnr": 31.402,
+      "ssim": 0.8966,
+      "ms_ssim": 0.9798,
+      "bpp": 2.3533,
+      "filesize": 115667
+    },
+    {
+      "image": "kodim14",
+      "psnr": 33.4394,
+      "ssim": 0.8984,
+      "ms_ssim": 0.9753,
+      "bpp": 2.0851,
+      "filesize": 102485
+    },
+    {
+      "image": "kodim15",
+      "psnr": 30.5509,
+      "ssim": 0.792,
+      "ms_ssim": 0.8581,
+      "bpp": 1.1485,
+      "filesize": 56450
+    },
+    {
+      "image": "kodim16",
+      "psnr": 32.3349,
+      "ssim": 0.8552,
+      "ms_ssim": 0.9032,
+      "bpp": 1.3651,
+      "filesize": 67096
+    },
+    {
+      "image": "kodim17",
+      "psnr": 32.24,
+      "ssim": 0.8313,
+      "ms_ssim": 0.9128,
+      "bpp": 1.2751,
+      "filesize": 62673
+    },
+    {
+      "image": "kodim18",
+      "psnr": 32.0207,
+      "ssim": 0.8396,
+      "ms_ssim": 0.9343,
+      "bpp": 1.7537,
+      "filesize": 86198
+    },
+    {
+      "image": "kodim19",
+      "psnr": 32.5488,
+      "ssim": 0.8921,
+      "ms_ssim": 0.9388,
+      "bpp": 1.558,
+      "filesize": 76581
+    },
+    {
+      "image": "kodim20",
+      "psnr": 32.9934,
+      "ssim": 0.8777,
+      "ms_ssim": 0.934,
+      "bpp": 1.1482,
+      "filesize": 56436
+    },
+    {
+      "image": "kodim21",
+      "psnr": 32.3682,
+      "ssim": 0.8859,
+      "ms_ssim": 0.9376,
+      "bpp": 1.463,
+      "filesize": 71910
+    },
+    {
+      "image": "kodim22",
+      "psnr": 32.4053,
+      "ssim": 0.8366,
+      "ms_ssim": 0.9313,
+      "bpp": 1.5687,
+      "filesize": 77107
+    },
+    {
+      "image": "kodim23",
+      "psnr": 30.389,
+      "ssim": 0.8062,
+      "ms_ssim": 0.8178,
+      "bpp": 0.8528,
+      "filesize": 41916
+    },
+    {
+      "image": "kodim24",
+      "psnr": 32.6428,
+      "ssim": 0.8841,
+      "ms_ssim": 0.9646,
+      "bpp": 1.7711,
+      "filesize": 87055
+    }
+  ],
+  "texture_only": [
+    {
+      "image": "kodim01",
+      "psnr": 30.4515,
+      "ssim": 0.7093,
+      "ms_ssim": 0.908,
+      "bpp": 1.2843,
+      "filesize": 63126
+    },
+    {
+      "image": "kodim02",
+      "psnr": 29.3755,
+      "ssim": 0.6002,
+      "ms_ssim": 0.7258,
+      "bpp": 0.5874,
+      "filesize": 28872
+    },
+    {
+      "image": "kodim03",
+      "psnr": 29.9985,
+      "ssim": 0.7275,
+      "ms_ssim": 0.8141,
+      "bpp": 0.6802,
+      "filesize": 33434
+    },
+    {
+      "image": "kodim04",
+      "psnr": 29.2963,
+      "ssim": 0.5994,
+      "ms_ssim": 0.7214,
+      "bpp": 0.6186,
+      "filesize": 30404
+    },
+    {
+      "image": "kodim05",
+      "psnr": 29.1476,
+      "ssim": 0.5544,
+      "ms_ssim": 0.7598,
+      "bpp": 1.0249,
+      "filesize": 50376
+    },
+    {
+      "image": "kodim06",
+      "psnr": 29.2478,
+      "ssim": 0.5283,
+      "ms_ssim": 0.7392,
+      "bpp": 0.7217,
+      "filesize": 35471
+    },
+    {
+      "image": "kodim07",
+      "psnr": 29.8895,
+      "ssim": 0.6933,
+      "ms_ssim": 0.7699,
+      "bpp": 0.747,
+      "filesize": 36716
+    },
+    {
+      "image": "kodim08",
+      "psnr": 30.8121,
+      "ssim": 0.7777,
+      "ms_ssim": 0.9141,
+      "bpp": 1.6296,
+      "filesize": 80097
+    },
+    {
+      "image": "kodim09",
+      "psnr": 31.0189,
+      "ssim": 0.7695,
+      "ms_ssim": 0.8635,
+      "bpp": 0.8351,
+      "filesize": 41047
+    },
+    {
+      "image": "kodim10",
+      "psnr": 30.1413,
+      "ssim": 0.6928,
+      "ms_ssim": 0.8022,
+      "bpp": 0.6875,
+      "filesize": 33793
+    },
+    {
+      "image": "kodim11",
+      "psnr": 30.3098,
+      "ssim": 0.6498,
+      "ms_ssim": 0.8368,
+      "bpp": 0.9472,
+      "filesize": 46558
+    },
+    {
+      "image": "kodim12",
+      "psnr": 30.7472,
+      "ssim": 0.7116,
+      "ms_ssim": 0.833,
+      "bpp": 0.721,
+      "filesize": 35441
+    },
+    {
+      "image": "kodim13",
+      "psnr": 29.1745,
+      "ssim": 0.5414,
+      "ms_ssim": 0.798,
+      "bpp": 1.1582,
+      "filesize": 56930
+    },
+    {
+      "image": "kodim14",
+      "psnr": 29.5619,
+      "ssim": 0.5732,
+      "ms_ssim": 0.7738,
+      "bpp": 1.0016,
+      "filesize": 49231
+    },
+    {
+      "image": "kodim15",
+      "psnr": 29.7141,
+      "ssim": 0.6796,
+      "ms_ssim": 0.784,
+      "bpp": 0.7703,
+      "filesize": 37862
+    },
+    {
+      "image": "kodim16",
+      "psnr": 30.4502,
+      "ssim": 0.6395,
+      "ms_ssim": 0.8219,
+      "bpp": 0.7571,
+      "filesize": 37212
+    },
+    {
+      "image": "kodim17",
+      "psnr": 30.1375,
+      "ssim": 0.6833,
+      "ms_ssim": 0.7961,
+      "bpp": 0.8141,
+      "filesize": 40015
+    },
+    {
+      "image": "kodim18",
+      "psnr": 29.2221,
+      "ssim": 0.4837,
+      "ms_ssim": 0.6792,
+      "bpp": 0.7095,
+      "filesize": 34874
+    },
+    {
+      "image": "kodim19",
+      "psnr": 30.7737,
+      "ssim": 0.7282,
+      "ms_ssim": 0.8603,
+      "bpp": 0.9503,
+      "filesize": 46711
+    },
+    {
+      "image": "kodim20",
+      "psnr": 31.6987,
+      "ssim": 0.7596,
+      "ms_ssim": 0.8779,
+      "bpp": 0.7237,
+      "filesize": 35570
+    },
+    {
+      "image": "kodim21",
+      "psnr": 30.3416,
+      "ssim": 0.6662,
+      "ms_ssim": 0.8159,
+      "bpp": 0.7616,
+      "filesize": 37432
+    },
+    {
+      "image": "kodim22",
+      "psnr": 29.6269,
+      "ssim": 0.5501,
+      "ms_ssim": 0.7106,
+      "bpp": 0.6798,
+      "filesize": 33414
+    },
+    {
+      "image": "kodim23",
+      "psnr": 29.6871,
+      "ssim": 0.7483,
+      "ms_ssim": 0.7604,
+      "bpp": 0.6777,
+      "filesize": 33310
+    },
+    {
+      "image": "kodim24",
+      "psnr": 29.2979,
+      "ssim": 0.5664,
+      "ms_ssim": 0.7417,
+      "bpp": 0.8484,
+      "filesize": 41702
+    }
+  ],
+  "saliency_only": [
+    {
+      "image": "kodim01",
+      "psnr": 28.4046,
+      "ssim": 0.281,
+      "ms_ssim": 0.565,
+      "bpp": 0.5599,
+      "filesize": 27522
+    },
+    {
+      "image": "kodim02",
+      "psnr": 29.2969,
+      "ssim": 0.5885,
+      "ms_ssim": 0.7147,
+      "bpp": 0.56,
+      "filesize": 27527
+    },
+    {
+      "image": "kodim03",
+      "psnr": 29.4852,
+      "ssim": 0.6718,
+      "ms_ssim": 0.7436,
+      "bpp": 0.56,
+      "filesize": 27524
+    },
+    {
+      "image": "kodim04",
+      "psnr": 29.0632,
+      "ssim": 0.5762,
+      "ms_ssim": 0.6855,
+      "bpp": 0.5682,
+      "filesize": 27927
+    },
+    {
+      "image": "kodim05",
+      "psnr": 28.1947,
+      "ssim": 0.2606,
+      "ms_ssim": 0.4622,
+      "bpp": 0.5604,
+      "filesize": 27544
+    },
+    {
+      "image": "kodim06",
+      "psnr": 28.8151,
+      "ssim": 0.4365,
+      "ms_ssim": 0.669,
+      "bpp": 0.56,
+      "filesize": 27526
+    },
+    {
+      "image": "kodim07",
+      "psnr": 29.0742,
+      "ssim": 0.5526,
+      "ms_ssim": 0.6425,
+      "bpp": 0.5599,
+      "filesize": 27519
+    },
+    {
+      "image": "kodim08",
+      "psnr": 28.2737,
+      "ssim": 0.2649,
+      "ms_ssim": 0.5401,
+      "bpp": 0.5598,
+      "filesize": 27515
+    },
+    {
+      "image": "kodim09",
+      "psnr": 29.9238,
+      "ssim": 0.6537,
+      "ms_ssim": 0.7574,
+      "bpp": 0.5667,
+      "filesize": 27853
+    },
+    {
+      "image": "kodim10",
+      "psnr": 29.6878,
+      "ssim": 0.6207,
+      "ms_ssim": 0.7482,
+      "bpp": 0.5594,
+      "filesize": 27494
+    },
+    {
+      "image": "kodim11",
+      "psnr": 29.1734,
+      "ssim": 0.4714,
+      "ms_ssim": 0.691,
+      "bpp": 0.5601,
+      "filesize": 27531
+    },
+    {
+      "image": "kodim12",
+      "psnr": 30.0783,
+      "ssim": 0.6528,
+      "ms_ssim": 0.7753,
+      "bpp": 0.56,
+      "filesize": 27526
+    },
+    {
+      "image": "kodim13",
+      "psnr": 28.3952,
+      "ssim": 0.2751,
+      "ms_ssim": 0.5904,
+      "bpp": 0.6265,
+      "filesize": 30792
+    },
+    {
+      "image": "kodim14",
+      "psnr": 28.638,
+      "ssim": 0.3727,
+      "ms_ssim": 0.5724,
+      "bpp": 0.5679,
+      "filesize": 27913
+    },
+    {
+      "image": "kodim15",
+      "psnr": 29.0259,
+      "ssim": 0.6065,
+      "ms_ssim": 0.7194,
+      "bpp": 0.5678,
+      "filesize": 27908
+    },
+    {
+      "image": "kodim16",
+      "psnr": 29.6662,
+      "ssim": 0.5676,
+      "ms_ssim": 0.7567,
+      "bpp": 0.5673,
+      "filesize": 27885
+    },
+    {
+      "image": "kodim17",
+      "psnr": 29.2719,
+      "ssim": 0.5519,
+      "ms_ssim": 0.6838,
+      "bpp": 0.5598,
+      "filesize": 27513
+    },
+    {
+      "image": "kodim18",
+      "psnr": 29.0054,
+      "ssim": 0.4126,
+      "ms_ssim": 0.6154,
+      "bpp": 0.5826,
+      "filesize": 28637
+    },
+    {
+      "image": "kodim19",
+      "psnr": 29.4116,
+      "ssim": 0.5194,
+      "ms_ssim": 0.706,
+      "bpp": 0.56,
+      "filesize": 27523
+    },
+    {
+      "image": "kodim20",
+      "psnr": 30.6381,
+      "ssim": 0.6774,
+      "ms_ssim": 0.7963,
+      "bpp": 0.5751,
+      "filesize": 28266
+    },
+    {
+      "image": "kodim21",
+      "psnr": 29.7294,
+      "ssim": 0.5353,
+      "ms_ssim": 0.7092,
+      "bpp": 0.5597,
+      "filesize": 27511
+    },
+    {
+      "image": "kodim22",
+      "psnr": 29.3048,
+      "ssim": 0.4941,
+      "ms_ssim": 0.6499,
+      "bpp": 0.5602,
+      "filesize": 27537
+    },
+    {
+      "image": "kodim23",
+      "psnr": 29.3503,
+      "ssim": 0.7009,
+      "ms_ssim": 0.7158,
+      "bpp": 0.5679,
+      "filesize": 27912
+    },
+    {
+      "image": "kodim24",
+      "psnr": 28.8655,
+      "ssim": 0.4728,
+      "ms_ssim": 0.6775,
+      "bpp": 0.6189,
+      "filesize": 30420
+    }
+  ],
+  "equal": [
+    {
+      "image": "kodim01",
+      "psnr": 32.2769,
+      "ssim": 0.8901,
+      "ms_ssim": 0.9771,
+      "bpp": 1.955,
+      "filesize": 96091
+    },
+    {
+      "image": "kodim02",
+      "psnr": 29.6235,
+      "ssim": 0.6388,
+      "ms_ssim": 0.7639,
+      "bpp": 0.6547,
+      "filesize": 32180
+    },
+    {
+      "image": "kodim03",
+      "psnr": 30.512,
+      "ssim": 0.7989,
+      "ms_ssim": 0.8559,
+      "bpp": 0.8108,
+      "filesize": 39852
+    },
+    {
+      "image": "kodim04",
+      "psnr": 29.8835,
+      "ssim": 0.7093,
+      "ms_ssim": 0.8122,
+      "bpp": 0.8431,
+      "filesize": 41442
+    },
+    {
+      "image": "kodim05",
+      "psnr": 30.9772,
+      "ssim": 0.8364,
+      "ms_ssim": 0.953,
+      "bpp": 1.7416,
+      "filesize": 85604
+    },
+    {
+      "image": "kodim06",
+      "psnr": 30.9153,
+      "ssim": 0.8292,
+      "ms_ssim": 0.9256,
+      "bpp": 1.3551,
+      "filesize": 66607
+    },
+    {
+      "image": "kodim07",
+      "psnr": 30.3985,
+      "ssim": 0.7657,
+      "ms_ssim": 0.8389,
+      "bpp": 0.8499,
+      "filesize": 41776
+    },
+    {
+      "image": "kodim08",
+      "psnr": 32.2022,
+      "ssim": 0.892,
+      "ms_ssim": 0.9714,
+      "bpp": 2.0446,
+      "filesize": 100496
+    },
+    {
+      "image": "kodim09",
+      "psnr": 31.5664,
+      "ssim": 0.8359,
+      "ms_ssim": 0.9021,
+      "bpp": 0.9442,
+      "filesize": 46408
+    },
+    {
+      "image": "kodim10",
+      "psnr": 30.3727,
+      "ssim": 0.7214,
+      "ms_ssim": 0.8198,
+      "bpp": 0.7482,
+      "filesize": 36775
+    },
+    {
+      "image": "kodim11",
+      "psnr": 31.378,
+      "ssim": 0.7805,
+      "ms_ssim": 0.926,
+      "bpp": 1.2081,
+      "filesize": 59382
+    },
+    {
+      "image": "kodim12",
+      "psnr": 31.3054,
+      "ssim": 0.7804,
+      "ms_ssim": 0.8815,
+      "bpp": 0.7829,
+      "filesize": 38482
+    },
+    {
+      "image": "kodim13",
+      "psnr": 30.4298,
+      "ssim": 0.811,
+      "ms_ssim": 0.9634,
+      "bpp": 1.863,
+      "filesize": 91569
+    },
+    {
+      "image": "kodim14",
+      "psnr": 31.6943,
+      "ssim": 0.8253,
+      "ms_ssim": 0.9546,
+      "bpp": 1.5544,
+      "filesize": 76404
+    },
+    {
+      "image": "kodim15",
+      "psnr": 30.0833,
+      "ssim": 0.7404,
+      "ms_ssim": 0.8367,
+      "bpp": 0.8546,
+      "filesize": 42006
+    },
+    {
+      "image": "kodim16",
+      "psnr": 31.319,
+      "ssim": 0.8007,
+      "ms_ssim": 0.8849,
+      "bpp": 1.0341,
+      "filesize": 50830
+    },
+    {
+      "image": "kodim17",
+      "psnr": 30.4969,
+      "ssim": 0.7326,
+      "ms_ssim": 0.8326,
+      "bpp": 0.9008,
+      "filesize": 44274
+    },
+    {
+      "image": "kodim18",
+      "psnr": 30.1184,
+      "ssim": 0.6889,
+      "ms_ssim": 0.8403,
+      "bpp": 1.0919,
+      "filesize": 53667
+    },
+    {
+      "image": "kodim19",
+      "psnr": 32.1034,
+      "ssim": 0.8653,
+      "ms_ssim": 0.9283,
+      "bpp": 1.4194,
+      "filesize": 69766
+    },
+    {
+      "image": "kodim20",
+      "psnr": 32.637,
+      "ssim": 0.8588,
+      "ms_ssim": 0.9442,
+      "bpp": 0.9598,
+      "filesize": 47175
+    },
+    {
+      "image": "kodim21",
+      "psnr": 32.1282,
+      "ssim": 0.8775,
+      "ms_ssim": 0.9365,
+      "bpp": 1.3763,
+      "filesize": 67650
+    },
+    {
+      "image": "kodim22",
+      "psnr": 30.4744,
+      "ssim": 0.6986,
+      "ms_ssim": 0.8332,
+      "bpp": 1.0105,
+      "filesize": 49666
+    },
+    {
+      "image": "kodim23",
+      "psnr": 29.9174,
+      "ssim": 0.7699,
+      "ms_ssim": 0.7823,
+      "bpp": 0.7399,
+      "filesize": 36368
+    },
+    {
+      "image": "kodim24",
+      "psnr": 30.9662,
+      "ssim": 0.7882,
+      "ms_ssim": 0.9068,
+      "bpp": 1.3719,
+      "filesize": 67433
+    }
+  ],
+  "default": [
+    {
+      "image": "kodim01",
+      "psnr": 32.7031,
+      "ssim": 0.9073,
+      "ms_ssim": 0.9795,
+      "bpp": 2.0911,
+      "filesize": 102782
+    },
+    {
+      "image": "kodim02",
+      "psnr": 29.9501,
+      "ssim": 0.6781,
+      "ms_ssim": 0.7996,
+      "bpp": 0.7425,
+      "filesize": 36496
+    },
+    {
+      "image": "kodim03",
+      "psnr": 30.683,
+      "ssim": 0.8086,
+      "ms_ssim": 0.8606,
+      "bpp": 0.8499,
+      "filesize": 41774
+    },
+    {
+      "image": "kodim04",
+      "psnr": 30.1367,
+      "ssim": 0.7319,
+      "ms_ssim": 0.8259,
+      "bpp": 0.9353,
+      "filesize": 45974
+    },
+    {
+      "image": "kodim05",
+      "psnr": 31.6328,
+      "ssim": 0.8711,
+      "ms_ssim": 0.9614,
+      "bpp": 1.984,
+      "filesize": 97517
+    },
+    {
+      "image": "kodim06",
+      "psnr": 31.2166,
+      "ssim": 0.8462,
+      "ms_ssim": 0.9312,
+      "bpp": 1.4594,
+      "filesize": 71731
+    },
+    {
+      "image": "kodim07",
+      "psnr": 30.8671,
+      "ssim": 0.8055,
+      "ms_ssim": 0.8707,
+      "bpp": 0.9389,
+      "filesize": 46148
+    },
+    {
+      "image": "kodim08",
+      "psnr": 32.4307,
+      "ssim": 0.9021,
+      "ms_ssim": 0.9761,
+      "bpp": 2.1019,
+      "filesize": 103315
+    },
+    {
+      "image": "kodim09",
+      "psnr": 31.998,
+      "ssim": 0.8602,
+      "ms_ssim": 0.9132,
+      "bpp": 1.0337,
+      "filesize": 50809
+    },
+    {
+      "image": "kodim10",
+      "psnr": 30.6661,
+      "ssim": 0.7437,
+      "ms_ssim": 0.8361,
+      "bpp": 0.812,
+      "filesize": 39913
+    },
+    {
+      "image": "kodim11",
+      "psnr": 31.5466,
+      "ssim": 0.7917,
+      "ms_ssim": 0.9313,
+      "bpp": 1.2478,
+      "filesize": 61334
+    },
+    {
+      "image": "kodim12",
+      "psnr": 31.5552,
+      "ssim": 0.7996,
+      "ms_ssim": 0.894,
+      "bpp": 0.8379,
+      "filesize": 41184
+    },
+    {
+      "image": "kodim13",
+      "psnr": 30.9136,
+      "ssim": 0.8619,
+      "ms_ssim": 0.972,
+      "bpp": 2.139,
+      "filesize": 105137
+    },
+    {
+      "image": "kodim14",
+      "psnr": 32.2286,
+      "ssim": 0.8512,
+      "ms_ssim": 0.9652,
+      "bpp": 1.7003,
+      "filesize": 83575
+    },
+    {
+      "image": "kodim15",
+      "psnr": 30.3208,
+      "ssim": 0.7673,
+      "ms_ssim": 0.857,
+      "bpp": 0.9307,
+      "filesize": 45747
+    },
+    {
+      "image": "kodim16",
+      "psnr": 31.5479,
+      "ssim": 0.8151,
+      "ms_ssim": 0.8913,
+      "bpp": 1.1105,
+      "filesize": 54584
+    },
+    {
+      "image": "kodim17",
+      "psnr": 30.9955,
+      "ssim": 0.7678,
+      "ms_ssim": 0.8645,
+      "bpp": 1.0032,
+      "filesize": 49310
+    },
+    {
+      "image": "kodim18",
+      "psnr": 30.5049,
+      "ssim": 0.7354,
+      "ms_ssim": 0.8768,
+      "bpp": 1.2188,
+      "filesize": 59908
+    },
+    {
+      "image": "kodim19",
+      "psnr": 32.2992,
+      "ssim": 0.8755,
+      "ms_ssim": 0.9296,
+      "bpp": 1.4958,
+      "filesize": 73523
+    },
+    {
+      "image": "kodim20",
+      "psnr": 32.6862,
+      "ssim": 0.8643,
+      "ms_ssim": 0.9382,
+      "bpp": 1.018,
+      "filesize": 50039
+    },
+    {
+      "image": "kodim21",
+      "psnr": 32.1986,
+      "ssim": 0.8803,
+      "ms_ssim": 0.9368,
+      "bpp": 1.4025,
+      "filesize": 68937
+    },
+    {
+      "image": "kodim22",
+      "psnr": 30.9008,
+      "ssim": 0.7383,
+      "ms_ssim": 0.869,
+      "bpp": 1.1203,
+      "filesize": 55066
+    },
+    {
+      "image": "kodim23",
+      "psnr": 30.0498,
+      "ssim": 0.7808,
+      "ms_ssim": 0.7924,
+      "bpp": 0.7623,
+      "filesize": 37469
+    },
+    {
+      "image": "kodim24",
+      "psnr": 31.2284,
+      "ssim": 0.8091,
+      "ms_ssim": 0.9183,
+      "bpp": 1.4377,
+      "filesize": 70667
+    }
+  ],
+  "random": [
+    {
+      "image": "kodim01",
+      "psnr": 33.8898,
+      "ssim": 0.9401,
+      "ms_ssim": 0.991,
+      "bpp": 2.4471,
+      "filesize": 120281
+    },
+    {
+      "image": "kodim02",
+      "psnr": 38.5737,
+      "ssim": 0.947,
+      "ms_ssim": 0.9917,
+      "bpp": 2.455,
+      "filesize": 120667
+    },
+    {
+      "image": "kodim03",
+      "psnr": 40.216,
+      "ssim": 0.9682,
+      "ms_ssim": 0.9954,
+      "bpp": 2.4478,
+      "filesize": 120313
+    },
+    {
+      "image": "kodim04",
+      "psnr": 37.7895,
+      "ssim": 0.9507,
+      "ms_ssim": 0.9927,
+      "bpp": 2.4529,
+      "filesize": 120565
+    },
+    {
+      "image": "kodim05",
+      "psnr": 33.3725,
+      "ssim": 0.9394,
+      "ms_ssim": 0.9917,
+      "bpp": 2.4606,
+      "filesize": 120944
+    },
+    {
+      "image": "kodim06",
+      "psnr": 35.5292,
+      "ssim": 0.9563,
+      "ms_ssim": 0.9915,
+      "bpp": 2.4538,
+      "filesize": 120611
+    },
+    {
+      "image": "kodim07",
+      "psnr": 39.0282,
+      "ssim": 0.9702,
+      "ms_ssim": 0.9963,
+      "bpp": 2.4606,
+      "filesize": 120941
+    },
+    {
+      "image": "kodim08",
+      "psnr": 33.5752,
+      "ssim": 0.9464,
+      "ms_ssim": 0.9929,
+      "bpp": 2.4637,
+      "filesize": 121097
+    },
+    {
+      "image": "kodim09",
+      "psnr": 39.0583,
+      "ssim": 0.958,
+      "ms_ssim": 0.9944,
+      "bpp": 2.4154,
+      "filesize": 118721
+    },
+    {
+      "image": "kodim10",
+      "psnr": 39.1161,
+      "ssim": 0.9577,
+      "ms_ssim": 0.9946,
+      "bpp": 2.4276,
+      "filesize": 119323
+    },
+    {
+      "image": "kodim11",
+      "psnr": 36.3441,
+      "ssim": 0.9481,
+      "ms_ssim": 0.9919,
+      "bpp": 2.4566,
+      "filesize": 120745
+    },
+    {
+      "image": "kodim12",
+      "psnr": 39.8639,
+      "ssim": 0.9613,
+      "ms_ssim": 0.9941,
+      "bpp": 2.4458,
+      "filesize": 120218
+    },
+    {
+      "image": "kodim13",
+      "psnr": 31.599,
+      "ssim": 0.9053,
+      "ms_ssim": 0.9831,
+      "bpp": 2.4347,
+      "filesize": 119669
+    },
+    {
+      "image": "kodim14",
+      "psnr": 34.7889,
+      "ssim": 0.9377,
+      "ms_ssim": 0.9914,
+      "bpp": 2.4533,
+      "filesize": 120585
+    },
+    {
+      "image": "kodim15",
+      "psnr": 38.0861,
+      "ssim": 0.95,
+      "ms_ssim": 0.9929,
+      "bpp": 2.4594,
+      "filesize": 120883
+    },
+    {
+      "image": "kodim16",
+      "psnr": 38.4318,
+      "ssim": 0.9646,
+      "ms_ssim": 0.9939,
+      "bpp": 2.4489,
+      "filesize": 120367
+    },
+    {
+      "image": "kodim17",
+      "psnr": 38.2015,
+      "ssim": 0.9573,
+      "ms_ssim": 0.9945,
+      "bpp": 2.4385,
+      "filesize": 119855
+    },
+    {
+      "image": "kodim18",
+      "psnr": 34.1122,
+      "ssim": 0.9257,
+      "ms_ssim": 0.9886,
+      "bpp": 2.4479,
+      "filesize": 120321
+    },
+    {
+      "image": "kodim19",
+      "psnr": 36.4307,
+      "ssim": 0.9501,
+      "ms_ssim": 0.9918,
+      "bpp": 2.4426,
+      "filesize": 120057
+    },
+    {
+      "image": "kodim20",
+      "psnr": 38.3268,
+      "ssim": 0.9593,
+      "ms_ssim": 0.9945,
+      "bpp": 2.4214,
+      "filesize": 119016
+    },
+    {
+      "image": "kodim21",
+      "psnr": 35.2799,
+      "ssim": 0.9448,
+      "ms_ssim": 0.9925,
+      "bpp": 2.4358,
+      "filesize": 119722
+    },
+    {
+      "image": "kodim22",
+      "psnr": 35.6804,
+      "ssim": 0.9307,
+      "ms_ssim": 0.9893,
+      "bpp": 2.4513,
+      "filesize": 120486
+    },
+    {
+      "image": "kodim23",
+      "psnr": 40.2678,
+      "ssim": 0.963,
+      "ms_ssim": 0.9957,
+      "bpp": 2.4449,
+      "filesize": 120171
+    },
+    {
+      "image": "kodim24",
+      "psnr": 34.9604,
+      "ssim": 0.9437,
+      "ms_ssim": 0.9913,
+      "bpp": 2.4645,
+      "filesize": 121135
+    }
+  ],
+  "uniform": [
+    {
+      "image": "kodim01",
+      "psnr": 33.8898,
+      "ssim": 0.9401,
+      "ms_ssim": 0.991,
+      "bpp": 2.4471,
+      "filesize": 120281
+    },
+    {
+      "image": "kodim02",
+      "psnr": 38.5737,
+      "ssim": 0.947,
+      "ms_ssim": 0.9917,
+      "bpp": 2.455,
+      "filesize": 120667
+    },
+    {
+      "image": "kodim03",
+      "psnr": 40.216,
+      "ssim": 0.9682,
+      "ms_ssim": 0.9954,
+      "bpp": 2.4478,
+      "filesize": 120313
+    },
+    {
+      "image": "kodim04",
+      "psnr": 37.7895,
+      "ssim": 0.9507,
+      "ms_ssim": 0.9927,
+      "bpp": 2.4529,
+      "filesize": 120565
+    },
+    {
+      "image": "kodim05",
+      "psnr": 33.3725,
+      "ssim": 0.9394,
+      "ms_ssim": 0.9917,
+      "bpp": 2.4606,
+      "filesize": 120944
+    },
+    {
+      "image": "kodim06",
+      "psnr": 35.5292,
+      "ssim": 0.9563,
+      "ms_ssim": 0.9915,
+      "bpp": 2.4538,
+      "filesize": 120611
+    },
+    {
+      "image": "kodim07",
+      "psnr": 39.0282,
+      "ssim": 0.9702,
+      "ms_ssim": 0.9963,
+      "bpp": 2.4606,
+      "filesize": 120941
+    },
+    {
+      "image": "kodim08",
+      "psnr": 33.5752,
+      "ssim": 0.9464,
+      "ms_ssim": 0.9929,
+      "bpp": 2.4637,
+      "filesize": 121097
+    },
+    {
+      "image": "kodim09",
+      "psnr": 39.0583,
+      "ssim": 0.958,
+      "ms_ssim": 0.9944,
+      "bpp": 2.4154,
+      "filesize": 118721
+    },
+    {
+      "image": "kodim10",
+      "psnr": 39.1161,
+      "ssim": 0.9577,
+      "ms_ssim": 0.9946,
+      "bpp": 2.4276,
+      "filesize": 119323
+    },
+    {
+      "image": "kodim11",
+      "psnr": 36.3441,
+      "ssim": 0.9481,
+      "ms_ssim": 0.9919,
+      "bpp": 2.4566,
+      "filesize": 120745
+    },
+    {
+      "image": "kodim12",
+      "psnr": 39.8639,
+      "ssim": 0.9613,
+      "ms_ssim": 0.9941,
+      "bpp": 2.4458,
+      "filesize": 120218
+    },
+    {
+      "image": "kodim13",
+      "psnr": 31.599,
+      "ssim": 0.9053,
+      "ms_ssim": 0.9831,
+      "bpp": 2.4347,
+      "filesize": 119669
+    },
+    {
+      "image": "kodim14",
+      "psnr": 34.7889,
+      "ssim": 0.9377,
+      "ms_ssim": 0.9914,
+      "bpp": 2.4533,
+      "filesize": 120585
+    },
+    {
+      "image": "kodim15",
+      "psnr": 38.0861,
+      "ssim": 0.95,
+      "ms_ssim": 0.9929,
+      "bpp": 2.4594,
+      "filesize": 120883
+    },
+    {
+      "image": "kodim16",
+      "psnr": 38.4318,
+      "ssim": 0.9646,
+      "ms_ssim": 0.9939,
+      "bpp": 2.4489,
+      "filesize": 120367
+    },
+    {
+      "image": "kodim17",
+      "psnr": 38.2015,
+      "ssim": 0.9573,
+      "ms_ssim": 0.9945,
+      "bpp": 2.4385,
+      "filesize": 119855
+    },
+    {
+      "image": "kodim18",
+      "psnr": 34.1122,
+      "ssim": 0.9257,
+      "ms_ssim": 0.9886,
+      "bpp": 2.4479,
+      "filesize": 120321
+    },
+    {
+      "image": "kodim19",
+      "psnr": 36.4307,
+      "ssim": 0.9501,
+      "ms_ssim": 0.9918,
+      "bpp": 2.4426,
+      "filesize": 120057
+    },
+    {
+      "image": "kodim20",
+      "psnr": 38.3268,
+      "ssim": 0.9593,
+      "ms_ssim": 0.9945,
+      "bpp": 2.4214,
+      "filesize": 119016
+    },
+    {
+      "image": "kodim21",
+      "psnr": 35.2799,
+      "ssim": 0.9448,
+      "ms_ssim": 0.9925,
+      "bpp": 2.4358,
+      "filesize": 119722
+    },
+    {
+      "image": "kodim22",
+      "psnr": 35.6804,
+      "ssim": 0.9307,
+      "ms_ssim": 0.9893,
+      "bpp": 2.4513,
+      "filesize": 120486
+    },
+    {
+      "image": "kodim23",
+      "psnr": 40.2678,
+      "ssim": 0.963,
+      "ms_ssim": 0.9957,
+      "bpp": 2.4449,
+      "filesize": 120171
+    },
+    {
+      "image": "kodim24",
+      "psnr": 34.9604,
+      "ssim": 0.9437,
+      "ms_ssim": 0.9913,
+      "bpp": 2.4645,
+      "filesize": 121135
+    }
+  ],
+  "inverted": [
+    {
+      "image": "kodim01",
+      "psnr": 33.8898,
+      "ssim": 0.9401,
+      "ms_ssim": 0.991,
+      "bpp": 2.4471,
+      "filesize": 120281
+    },
+    {
+      "image": "kodim02",
+      "psnr": 38.5737,
+      "ssim": 0.947,
+      "ms_ssim": 0.9917,
+      "bpp": 2.455,
+      "filesize": 120667
+    },
+    {
+      "image": "kodim03",
+      "psnr": 40.216,
+      "ssim": 0.9682,
+      "ms_ssim": 0.9954,
+      "bpp": 2.4478,
+      "filesize": 120313
+    },
+    {
+      "image": "kodim04",
+      "psnr": 37.7895,
+      "ssim": 0.9507,
+      "ms_ssim": 0.9927,
+      "bpp": 2.4529,
+      "filesize": 120565
+    },
+    {
+      "image": "kodim05",
+      "psnr": 33.3725,
+      "ssim": 0.9394,
+      "ms_ssim": 0.9917,
+      "bpp": 2.4606,
+      "filesize": 120944
+    },
+    {
+      "image": "kodim06",
+      "psnr": 35.5292,
+      "ssim": 0.9563,
+      "ms_ssim": 0.9915,
+      "bpp": 2.4538,
+      "filesize": 120611
+    },
+    {
+      "image": "kodim07",
+      "psnr": 39.0282,
+      "ssim": 0.9702,
+      "ms_ssim": 0.9963,
+      "bpp": 2.4606,
+      "filesize": 120941
+    },
+    {
+      "image": "kodim08",
+      "psnr": 33.5752,
+      "ssim": 0.9464,
+      "ms_ssim": 0.9929,
+      "bpp": 2.4637,
+      "filesize": 121097
+    },
+    {
+      "image": "kodim09",
+      "psnr": 39.0583,
+      "ssim": 0.958,
+      "ms_ssim": 0.9944,
+      "bpp": 2.4154,
+      "filesize": 118721
+    },
+    {
+      "image": "kodim10",
+      "psnr": 39.1161,
+      "ssim": 0.9577,
+      "ms_ssim": 0.9946,
+      "bpp": 2.4276,
+      "filesize": 119323
+    },
+    {
+      "image": "kodim11",
+      "psnr": 36.3441,
+      "ssim": 0.9481,
+      "ms_ssim": 0.9919,
+      "bpp": 2.4566,
+      "filesize": 120745
+    },
+    {
+      "image": "kodim12",
+      "psnr": 39.8639,
+      "ssim": 0.9613,
+      "ms_ssim": 0.9941,
+      "bpp": 2.4458,
+      "filesize": 120218
+    },
+    {
+      "image": "kodim13",
+      "psnr": 31.599,
+      "ssim": 0.9053,
+      "ms_ssim": 0.9831,
+      "bpp": 2.4347,
+      "filesize": 119669
+    },
+    {
+      "image": "kodim14",
+      "psnr": 34.7889,
+      "ssim": 0.9377,
+      "ms_ssim": 0.9914,
+      "bpp": 2.4533,
+      "filesize": 120585
+    },
+    {
+      "image": "kodim15",
+      "psnr": 38.0861,
+      "ssim": 0.95,
+      "ms_ssim": 0.9929,
+      "bpp": 2.4594,
+      "filesize": 120883
+    },
+    {
+      "image": "kodim16",
+      "psnr": 38.4318,
+      "ssim": 0.9646,
+      "ms_ssim": 0.9939,
+      "bpp": 2.4489,
+      "filesize": 120367
+    },
+    {
+      "image": "kodim17",
+      "psnr": 38.2015,
+      "ssim": 0.9573,
+      "ms_ssim": 0.9945,
+      "bpp": 2.4385,
+      "filesize": 119855
+    },
+    {
+      "image": "kodim18",
+      "psnr": 34.1122,
+      "ssim": 0.9257,
+      "ms_ssim": 0.9886,
+      "bpp": 2.4479,
+      "filesize": 120321
+    },
+    {
+      "image": "kodim19",
+      "psnr": 36.4307,
+      "ssim": 0.9501,
+      "ms_ssim": 0.9918,
+      "bpp": 2.4426,
+      "filesize": 120057
+    },
+    {
+      "image": "kodim20",
+      "psnr": 38.3268,
+      "ssim": 0.9593,
+      "ms_ssim": 0.9945,
+      "bpp": 2.4214,
+      "filesize": 119016
+    },
+    {
+      "image": "kodim21",
+      "psnr": 35.2799,
+      "ssim": 0.9448,
+      "ms_ssim": 0.9925,
+      "bpp": 2.4358,
+      "filesize": 119722
+    },
+    {
+      "image": "kodim22",
+      "psnr": 35.6804,
+      "ssim": 0.9307,
+      "ms_ssim": 0.9893,
+      "bpp": 2.4513,
+      "filesize": 120486
+    },
+    {
+      "image": "kodim23",
+      "psnr": 40.2678,
+      "ssim": 0.963,
+      "ms_ssim": 0.9957,
+      "bpp": 2.4449,
+      "filesize": 120171
+    },
+    {
+      "image": "kodim24",
+      "psnr": 34.9604,
+      "ssim": 0.9437,
+      "ms_ssim": 0.9913,
+      "bpp": 2.4645,
+      "filesize": 121135
+    }
+  ]
+}
