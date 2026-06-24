@@ -1,0 +1,50 @@
+"""Benchmark vanilla JPEG 2000 (no importance) on Kodak dataset."""
+import sys, json, os, statistics
+sys.path.insert(0, '.')
+import glymur
+import numpy as np
+from PIL import Image
+from pawc.metrics import calculate_psnr, calculate_ssim, calculate_ms_ssim
+
+os.makedirs('experiments/vanilla_j2k', exist_ok=True)
+results = []
+
+CRATIOS = [2, 4, 8, 12, 16, 20, 30, 40, 60, 80]
+
+for img_num in range(1, 25):
+    img_path = f'kodak_dataset/kodim{img_num:02d}.png'
+    img = np.array(Image.open(img_path).convert('RGB'))
+
+    for cr in CRATIOS:
+        out = f'experiments/vanilla_j2k/kodim{img_num:02d}_cr{cr}.jp2'
+
+        jp2 = glymur.Jp2k(out, data=img, cratios=[cr])
+        filesize = os.path.getsize(out)
+        bpp = (filesize * 8) / (img.shape[0] * img.shape[1])
+
+        decoded = glymur.Jp2k(out)[:]
+        psnr = calculate_psnr(img, decoded)
+        ssim = calculate_ssim(img, decoded)
+        ms_ssim = calculate_ms_ssim(img, decoded)
+
+        results.append({
+            'image': f'kodim{img_num:02d}',
+            'cratio': cr,
+            'psnr': round(psnr, 4),
+            'ssim': round(ssim, 4),
+            'ms_ssim': round(ms_ssim, 4),
+            'bpp': round(bpp, 4),
+            'filesize': filesize
+        })
+        print(f'kodim{img_num:02d} cr={cr:>3}: {filesize:>8,}B, PSNR={psnr:.2f}')
+
+with open('experiments/vanilla_j2k/results.json', 'w') as f:
+    json.dump(results, f, indent=2)
+
+print('\n=== VANILLA J2K RD POINTS ===')
+for cr in CRATIOS:
+    pts = [r for r in results if r['cratio'] == cr]
+    psnr = statistics.mean([r['psnr'] for r in pts])
+    ss = statistics.mean([r['ssim'] for r in pts])
+    bpp = statistics.mean([r['bpp'] for r in pts])
+    print(f'cr={cr:>3}: PSNR={psnr:.2f}, SSIM={ss:.3f}, BPP={bpp:.3f}')
