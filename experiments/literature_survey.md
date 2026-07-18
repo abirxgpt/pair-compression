@@ -18,11 +18,11 @@ Columns:
 | 4 | Guo & Zhang 2010, "A novel multiresolution spatiotemporal saliency detection…" (TIP) | Phase spectrum saliency | Custom multiresolution | Subjective + compression ratio | No | No |
 | 5 | Li, Itti et al. 2011, "Visual attention guided bit allocation in video compression" (IVC) | Itti attention model | H.264 | Eye-tracking-weighted PSNR, subjective | Partial (std encoder at matched rate, weighted metric) | No |
 | 6 | Barua et al. 2015, "Saliency guided wavelet compression" (Rice) | GBVS-style saliency | Wavelet/SPIHT-style | Low-bitrate ROI quality, detection accuracy | No | No |
-| 7 | Cai et al. 2017, "Closed-form optimization on saliency-guided image compression" (TMM) | Learned/graph saliency | JPEG | ROI vs non-ROI distortion trade-off | No | No |
+| 7 | Li, Xu, Ren & Wang 2018, "Closed-form optimization on saliency-guided image compression for HEVC-MSP" (TMM) | Learned/graph saliency | JPEG | ROI vs non-ROI distortion trade-off | No | No |
 | 8 | Prakash et al. 2017, "MS-ROI: semantic obstruction of JPEG" | CNN multi-structure saliency | JPEG | Subjective, per-region quality | No | No |
 | 9 | Zünd et al. 2013, "Content-aware compression using saliency-driven image retargeting" | Saliency + retargeting | JPEG | Subjective | No | No |
 | 10 | Zhang et al. 2021, "Attention-guided image compression by deep reconstruction of compressive sensed saliency skeleton" (CVPR) | Learned saliency skeleton | Learned codec | RD + subjective | No (different-architecture baselines) | No |
-| 11 | Kaur et al. 2020, "Regional bit allocation with visual attention and distortion sensitivity" (MTAP) | Attention + sensitivity maps | HEVC | Subjective scores | Partial (std encoder, subjective metric) | No |
+| 11 | Pak & Bayazit 2020, "Regional bit allocation with visual attention and distortion sensitivity" (MTAP) | Attention + sensitivity maps | HEVC | Subjective scores | Partial (std encoder, subjective metric) | No |
 | 12 | ROI-based deep compression w/ Swin (2023, arXiv 2305.07783) | Learned ROI | Learned transformer codec | ROI-weighted RD | No (architecture comparisons) | No |
 
 ## Summary statistics for the paper
