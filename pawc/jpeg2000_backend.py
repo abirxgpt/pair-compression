@@ -286,7 +286,8 @@ class GlymurROIEncoder:
         self.tile_size = tile_size
 
     def encode(self, image_array: np.ndarray, importance_map: np.ndarray,
-               base_quality: int, output_path: str) -> dict:
+               base_quality: int, output_path: str,
+               base_ratio: Optional[int] = None) -> dict:
         """
         Encode image with tile-based importance-weighted quality allocation.
 
@@ -295,6 +296,8 @@ class GlymurROIEncoder:
             importance_map: Perceptual importance HxW, float32 in [0, 1]
             base_quality: Base quality level (70, 85, 95)
             output_path: Output file path (.jp2 or custom extension)
+            base_ratio: Explicit base compression ratio; overrides the
+                base_quality-to-ratio mapping when provided (for RD sweeps)
 
         Returns:
             Metadata dict with tile statistics
@@ -325,8 +328,9 @@ class GlymurROIEncoder:
 
         padded_h, padded_w = image_padded.shape[:2]
 
-        # Map base quality to base compression ratio
-        base_ratio = self.QUALITY_TO_BASE_RATIO.get(base_quality, 20)
+        # Map base quality to base compression ratio (unless given explicitly)
+        if base_ratio is None:
+            base_ratio = self.QUALITY_TO_BASE_RATIO.get(base_quality, 20)
 
         # Thresholds tuned from per-tile importance statistics:
         #   - Low-activity images: tile_imp peaks ~0.37, mean ~0.13

@@ -67,8 +67,12 @@ benchmark_output/
 *.pawc
 *.pwc2
 
-# Kodak dataset (copyright — users download separately)
+# Datasets (users download separately)
 kodak_dataset/
+tecnick_dataset/
+
+# Large intermediate experiment outputs
+experiments/**/*.jp2
 
 # Test artifacts and temp output
 test_output/
@@ -95,3 +99,4 @@ paper/PAWC_paper_revised.tex
 # OS
 .DS_Store
 Thumbs.db
+New_exp/
